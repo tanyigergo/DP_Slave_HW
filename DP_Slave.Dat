@@ -1,0 +1,48 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~DP_Slave.PrjPcb|ReportField=ProjectFullPath~C:\Users\Gergo\Desktop\DPslave_2\-== alltium projektek ==-\DPSLAVE\Projects\PB_DP_Slave\DP_Slave.PrjPcb|ReportField=Title~Bill of Materials For Project [DP_Slave.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~86|ReportField=ReportTime~11:16:45|ReportField=ReportDate~2018. 02. 26.|ReportField=ReportDateTime~2018. 02. 26. 11:16:45|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2018. 02. 26.|ReportField=CurrentTime~10:49:16|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Gergo\Desktop\DPslave_2\-== alltium projektek ==-\DPSLAVE\Projects\PB_DP_Slave\DP_Slave_Sch.SchDoc|ReportField=DocumentName~DP_Slave_Sch.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2018. 01. 15.|ReportField=Organization~|ReportField=ProjectName~DP_Slave.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~DP_Slave.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Gergo\Desktop\DPslave_2\-== alltium projektek ==-\DPSLAVE\Projects\PB_DP_Slave\DP_Slave.PrjPcb
+1|1uF|Szűrőkondi, Capacitor (Semiconductor SIM Model), Capacitor (Semiconductor SIM Model), SMD kerámia|C1, C4, C6, C29|C1206|Cap Semi|4
+2|100uF/35V|SMD elkó/40V|C2|SMD Elkó|Cap Pol3|1
+3|330uF|LDO kimeneti polárkondi|C3|SMD Elkó|Cap Pol3|1
+4|10nF|Capacitor (Semiconductor SIM Model)|C5|C1206|Cap Semi|1
+5|22pF|SMD kerámia|C7, C8|C1206|Cap Semi|2
+6|100nF|SMD KERÁMIA, SMD KERÁMIA, SMD KERÁMIA, Szűrőkondi, SMD KERÁMIA, SMD KERÁMIA, SMD KERÁMIA, Capacitor (Semiconductor SIM Model), Capacitor (Semiconductor SIM Model), Capacitor (Semiconductor SIM Model), Capacitor (Semiconductor SIM Model), Szűrőkondi, SMD kerámia, SMD kerámia, SMD kerámia, SMD kerámia, SMD kerámia, Capacitor (Semiconductor SIM Model)|C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C23, C25, C26, C27, C28, C30, C31|C1206|Cap Semi|18
+7|20pF|SMD kerámia|C20, C21, C22, C24|C1206|Cap Semi|4
+8|LED0|Typical INFRARED GaAs LED|D1, D4|C1206|LED0|2
+9|Diode|Diode|D2|Dióda MiniMelf SOD80|Diode|1
+10|D Schottky|Schottky Diode|D3|Schottky dióda|D Schottky|1
+11|Diode|Default Diode|D5, D6, D7, D8|C1206|Diode|4
+12|LED|Piros felhasználói LED|D9|c1206|LED2|1
+13|LCD_1602A||DISP1|LCD|LCD_1602A|1
+14|D Connector 9|Receptacle Assembly, 9 Position, Right Angle|J1|DSUB1.385-2H9|D Connector 9|1
+15|JUMP-2||J3, J4|HDR1X2|JUMP-2|2
+16|330mH|Inductor|L1|SMD tekercs|Inductor|1
+17|Sorkapocs|12V input|P1|SORKAPOCS-2|Header 2|1
+18|Header 4|Header, 4-Pin|P2|HDR1X4|Header 4|1
+19|Header 3|Header, 3-Pin|P3, P5|SORKAPOCS-3|Header 3|2
+20|Header 3X2|Header, 3-Pin, Dual row|P4|HDR2X3|Header 3X2|1
+21|330R|SMD ellenállás|R1, R4, R12, R13|C1206|Res3|4
+22|680R|Resistor|R2|C1206|Res3|1
+23|1K|SMD ELLENÁLLÁS|R3|C1206|Res3|1
+24|4K7|SMD ellenállás|R5|C1206|Res3|1
+25|41.2k, 0.1%|SMD ellenállás|R6, R11|C1206|Res3|2
+26|500R, 0.1%|SMD ellenállás|R7, R16|C1206|Res3|2
+27|20k, 0.1%|SMD ellenállás|R8, R17|C1206|Res3|2
+28|10k|SMD ellenállás|R9|C1206|Res3|1
+29|1M|SMD ellenállás|R10|c1206|Res3|1
+30|100K|SMD ellenállás|R14, R15|C1206|Res3|2
+31|10k|Potentiometer|R18|Potméter|RPot|1
+32|SW DIP-8|DIP Switch, 8 Position, SPST|S1|DIP switch|SW DIP-8|1
+33|Nyomógomb|4 lábas, SMD, tactile|S2, S3|Switch|Tactile switch|2
+34|LM2575S-5.0|SIMPLE SWITCHER® 1A Step-Down Voltage Regulator, 5-pin TO-263|U1|TS5B_N|LM2575S-5.0|1
+35|MCP1825S-3302E/DB|500 mA, Low Voltage, Low Quiescent Current LDO Regulator, 3-Pin SOT-223, Extended Temperature|U2|SOT-223-DB3_N|MCP1825S-3302E/DB|1
+36|R1SE-3.305/H2-R|Isolated DC/DC converter 3.3-5V|U3|Isolated DC/DC converter|R1SE-3.305/H2-R|1
+37|LP3985IM5-5.0/NOPB|Micropower, 150mA Low-Noise Ultra Low-Dropout CMOS Voltage Regulator, 5-pin SOT-23, Pb-Free|U4|MF05A_N|LP3985IM5-5.0/NOPB|1
+38|HCPL-061N||U5|HCPL-061N|HCPL-061N|1
+39|VPC3+S-QFP48|pROFIBUS CONTROLLER|U6|TSQFP50P900X900X160-48N|VPC3+S(1)|1
+40|NAND2|2-Input NAND|U7|NAND gate DIP14|NAND2|1
+41|HCPL-072X|Optocoupler|U8, U11|SOIC127P600X330-8N|HCPL-072X|2
+42|SN75176BD|Differential Bus Transceiver|U9|D008_L|SN75176BD|1
+43|MAX31180||U10|MAX31180AUA+ -  Clock Generator|MAX31180|1
+44|STM32F103C8T6|STM32 ARM-based 32-bit MCU with 64 Kbytes Flash, 48-pin LQFP, Industrial Temperature|U12|LQFP48_N|STM32F103C8T6|1
+45|24MHz|SMD kristály|Y1|8 MHz SMD kristály|XTAL|1
+46|XTAL|32.768 KHz kristály|Y2|32.768 MHz SMD kristály|XTAL|1
+47|XTAL|8 MHz kristály|Y3|8 MHz SMD kristály|XTAL|1
